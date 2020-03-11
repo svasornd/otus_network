@@ -1,6 +1,7 @@
 ### Лабораторная работа 01. Настройка расширенных сетей VLAN, VTP и DTP ###
 
 
+![](https://github.com/svasornd/otus_network/blob/master/lab01/Lab01.png)
 
 
 
