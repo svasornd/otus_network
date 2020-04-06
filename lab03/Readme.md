@@ -17,15 +17,15 @@
 |  PC-C | NIC  | 192.168.1.33 | 255.255.255.0 | 192.168.1.3 |
 
 
-[Конфигурация R1](https://github.com/svasornd/otus_network/blob/master/lab02/config/R1.md)
+[Конфигурация R1](https://github.com/svasornd/otus_network/blob/master/lab03/config/R1.md)
 
-[Конфигурация R2](https://github.com/svasornd/otus_network/blob/master/lab02/config/R2.md) 
+[Конфигурация R2](https://github.com/svasornd/otus_network/blob/master/lab03/config/R2.md) 
 
-[Конфигурация R3](https://github.com/svasornd/otus_network/blob/master/lab02/config/R3.md)
+[Конфигурация R3](https://github.com/svasornd/otus_network/blob/master/lab03/config/R3.md)
 
-[Конфигурация S1](https://github.com/svasornd/otus_network/blob/master/lab02/config/S1.md)
+[Конфигурация S1](https://github.com/svasornd/otus_network/blob/master/lab03/config/S1.md)
 
-[Конфигурация S3](https://github.com/svasornd/otus_network/blob/master/lab02/config/S3.md)
+[Конфигурация S3](https://github.com/svasornd/otus_network/blob/master/lab03/config/S3.md)
 
 ##### Необходимо получить ответ на ping-запросы с компьютера PC-A от каждого интерфейса на маршрутизаторах R1, R2 и R3, а также от компьютера PC-C. Удалось ли получить все ответы? #####
 
