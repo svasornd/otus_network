@@ -1,6 +1,6 @@
 ## Лабораторная работа. Настройка OSPFv2 для нескольких областей ##
 
-![](https://github.com/svasornd/otus_network/blob/master/lab05/lab_05.png)
+![](https://github.com/svasornd/otus_network/blob/master/lab05/Lab05.png)
 
 | Устройство  | Интерфейс   | IP адрес  | Маска подсети |
 | ---------- | ------------| ----------| ------------ | 
