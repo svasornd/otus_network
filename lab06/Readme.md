@@ -138,7 +138,7 @@ BW 1544 Kbit/sec
 
 ## <a name="part2"> Лабораторная работа. Настройка расширенных функций EIGRP для IPv4 ## </a> ## 
 
-![](https://github.com/svasornd/otus_network/blob/master/lab06/Lab06_1.png)
+![](https://github.com/svasornd/otus_network/blob/master/lab06/Lab06_01.png)
 
 | Устройство | Интерфейс | IP адрес | Маска подсети | Шлюз по умолчанию |
 | ---------- | ------------| ----------| ------------ | ------------ | 
