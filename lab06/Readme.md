@@ -166,9 +166,9 @@ BW 1544 Kbit/sec
 
 [Конфигурация R1](https://github.com/svasornd/otus_network/blob/master/lab06/config/R1_01.md)
 
-[Конфигурация R2](https://github.com/svasornd/otus_network/blob/master/lab06/config/R2_02.md) 
+[Конфигурация R2](https://github.com/svasornd/otus_network/blob/master/lab06/config/R2_01.md) 
 
-[Конфигурация R3](https://github.com/svasornd/otus_network/blob/master/lab06/config/R3_03.md)
+[Конфигурация R3](https://github.com/svasornd/otus_network/blob/master/lab06/config/R3_01.md)
 
 #####  На маршрутизаторе R1 настройте маршрутизацию EIGRP с номером автономной системы (AS) 1 для всех сетей с прямым подключением. Запишите использованные команды в поле ниже. #####  
 
