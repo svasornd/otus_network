@@ -19,6 +19,8 @@ PBR
 
 [Конфигурация R27](https://github.com/svasornd/otus_network/blob/master/lab08/config/R27.md)
 
+[Конфигурация SW29](https://github.com/svasornd/otus_network/blob/master/lab08/config/SW29.md)
+
 
 | Филиал       | Лабытнанги      |                |                 |           |                                         |              |
 |--------------|-----------------|----------------|-----------------|-----------|-----------------------------------------|--------------|
