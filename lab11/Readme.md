@@ -11,7 +11,7 @@
 5. Организуете IP доступность между офисами Москва и С.-Петербург
 6. План работы и изменения зафиксированы в документации 
 
-![](https://github.com/svasornd/otus_network/blob/master/lab11/Lab11_01.png)
+![](https://github.com/svasornd/otus_network/blob/master/lab11/Lab11_02.png)
 
 Москва 
 
