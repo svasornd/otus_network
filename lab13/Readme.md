@@ -142,29 +142,7 @@ Ping c R15(Москва) до  R18(Санкт-Петербург)
             !!!!!
             Success rate is 100 percent (5/5), round-trip min/avg/max = 1/1/2 ms
 
-R12
-
-            router bgp 1001
-             bgp log-neighbor-changes
-             neighbor 10.10.0.14 remote-as 1001
-             neighbor 10.10.0.14 update-source Loopback1
-             neighbor 10.10.0.14 next-hop-self
-             neighbor 10.10.0.15 remote-as 1001
-             neighbor 10.10.0.15 update-source Loopback1
-             neighbor 10.10.0.15 next-hop-self
-
-R13
-
-            router bgp 1001
-             bgp log-neighbor-changes
-             neighbor 10.10.0.14 remote-as 1001
-             neighbor 10.10.0.14 update-source Loopback1
-             neighbor 10.10.0.14 next-hop-self
-             neighbor 10.10.0.15 remote-as 1001
-             neighbor 10.10.0.15 update-source Loopback1
-             neighbor 10.10.0.15 next-hop-self
-
-#### Настроить провайдера Ламас так, чтобы в офис Москва отдавался только маршрут по-умолчанию и префикс офиса С.-Петербург ####
+#### Настроить фильтрацию в офисе С.-Петербург так, чтобы не появилось транзитного трафика(Prefix-list) ####
 
 Санкт-Петербург 
 
@@ -237,14 +215,14 @@ Ping c R18(Санкт-Петербург) до  R14 R15 (Москва)
 
 
 
-[Конфигурация R14](https://github.com/svasornd/otus_network/blob/master/lab12/config/R14.md)
+[Конфигурация R14](https://github.com/svasornd/otus_network/blob/master/lab13/config/R14.md)
 
-[Конфигурация R15](https://github.com/svasornd/otus_network/blob/master/lab12/config/R15.md)
+[Конфигурация R15](https://github.com/svasornd/otus_network/blob/master/lab13/config/R15.md)
 
-[Конфигурация R22](https://github.com/svasornd/otus_network/blob/master/lab12/config/R22.md)
+[Конфигурация R22](https://github.com/svasornd/otus_network/blob/master/lab13/config/R22.md)
 
-[Конфигурация R21](https://github.com/svasornd/otus_network/blob/master/lab12/config/R21.md)
+[Конфигурация R21](https://github.com/svasornd/otus_network/blob/master/lab13/config/R21.md)
 
-[Конфигурация R18](https://github.com/svasornd/otus_network/blob/master/lab12/config/R18.md)
+[Конфигурация R18](https://github.com/svasornd/otus_network/blob/master/lab13/config/R18.md)
 
 
